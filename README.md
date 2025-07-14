@@ -1,7 +1,20 @@
-# 🌾 SmartFarm - Full Stack Agriculture Management System
+# 🌾 SmartFarm - A Full Stack Agriculture Management System
 
 SmartFarm is a full-stack web application built for farmers, experts, and admins.  
-It helps manage farm data, crops, soil information, government schemes, weather updates, expert queries, and notifications — all in one place.
+> A modern web application that empowers farmers, agriculture experts, and government admins to manage farms, consult experts, track weather, and access schemes — all in one dashboard.
+
+---
+
+## ✨ Project Highlights
+
+- 🔐 JWT-based Login for three roles – Farmer, Expert, Admin
+- 📦 RESTful APIs for managing farms, soils, crops, and queries
+- 💬 Expert Advice System – Real-time query and response for farmers
+- 🌤  Weather Integration using OpenWeatherMap API
+- 📊 Admin Dashboard with analytics, role-wise statistics, and         filterable charts
+- 📩 Notifications & Scheme Announcements module
+- 💡 Role-based Routing and protected components (React + Spring Security)
+- 🚀 Hosted on Vercel (frontend) and Render (backend)
 
 ---
 
